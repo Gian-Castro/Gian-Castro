@@ -1,6 +1,5 @@
 # About me 👋
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning C and C++
 - 👯 I’m looking to collaborate on open-source projects
